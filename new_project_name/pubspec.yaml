@@ -1,0 +1,30 @@
+name: new_project_name
+description: "A new Flutter project."
+publish_to: 'none' # 避免意外發佈到 pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: "^3.7.0"  # Dart SDK 相容版本
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # iOS 樣式圖示
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # Flutter 團隊提供的預設程式碼規範
+  flutter_lints: ^2.0.0
+
+# Flutter 相關設定
+flutter:
+  uses-material-design: true
+  # 如果有圖片、字體等資源檔，需於此處宣告，例如：
+  # assets:
+  #   - assets/images/
+  # fonts:
+  #   - family: MyCustomFont
+  #     fonts:
+  #       - asset: fonts/MyCustomFont.ttf

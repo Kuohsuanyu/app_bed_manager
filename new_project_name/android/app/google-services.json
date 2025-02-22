@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816923035652",
+    "project_id": "bedmanage-4746c",
+    "storage_bucket": "bedmanage-4746c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816923035652:android:d2bd31620713a65b0d8d51",
+        "android_client_info": {
+          "package_name": "com.example.file1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnNdrM92EAx2kS9M2qjhoaVXLu3UTPutA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
